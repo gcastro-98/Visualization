@@ -1,0 +1,7 @@
+Altair: https://altair-viz.github.io/
+
+Intro to Altair by Allan Campopiano: https://drive.google.com/file/d/1hul_6yu5Z3VX0XjBg4knmABdcYrqZdnw/view?usp=sharing
+
+Data Visualization Curriciulum by University of Washington: https://uwdata.github.io/visualization-curriculum/intro.html
+
+Data Visualization guidance: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-charts/
